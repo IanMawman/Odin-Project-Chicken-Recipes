@@ -1,0 +1,32 @@
+body {
+    background-color: #e3f2fd /*this makes the background a different color*/
+    ;
+  }
+  h1 {
+    text-align:center; /*this aligns the text in a heading 1 to the center*/
+}
+p {/*this decorates text in a paragraph tag*/
+  text-align:center;
+  font-size: medium;
+  font-weight: bold;
+}
+.center {      /* this centers the image */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.lead { /* this decorates the text within the class lead */
+  text-align: center;
+  color: black;
+  font-size: medium;
+  font-weight: bold;
+}
+li { /* this decorates the text within a list */
+  font-size: small;
+  font-weight: bold;
+}
+.display-4{/* this decorates the text within the class display-4 on the jumbotron */
+  font-size: large;
+  font-weight: bold;
+}
